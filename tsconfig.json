@@ -6,6 +6,6 @@
     "moduleResolution": "node",
     "esModuleInterop": true
   },
-  "include": ["src/**/*", "src/**/*.tsx"],
+  "include": ["src/**/*", "src/**/*.tsx", "webpack.dev.js", "webpack.prod.js"],
   "exclude": ["node_modules"]
 }

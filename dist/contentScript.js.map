@@ -1,1 +1,0 @@
-{"version":3,"file":"contentScript.js","mappings":";;;;;AAAA","sources":["webpack://react-extension.072323/./src/contentScript/contentScript.ts"],"sourcesContent":["console.log('Content');\n"],"names":[],"sourceRoot":""}
